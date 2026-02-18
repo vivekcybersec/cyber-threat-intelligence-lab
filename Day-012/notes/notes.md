@@ -283,7 +283,7 @@ def process_data(log_entry, threat_data):
 ```python
 """
 CYBER THREAT INTELLIGENCE SYSTEM
-Author: [Your Name]
+Author: Vivek Kumar
 Date: Day 12 - 500 Days of Code Challenge
 Description: IOC matching and alert system with priority levels
 """
