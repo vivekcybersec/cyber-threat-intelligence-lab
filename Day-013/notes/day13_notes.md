@@ -12,7 +12,7 @@ MINI CTI DETECTION TOOL
 Cyber Threat Intelligence - Python Project
 ========================================
 
-Author: [Your Name]
+Author: Vivek Kumar
 Date: Day 13 - 500 Days of Code Challenge
 GitHub: cti-detection-tool
 
